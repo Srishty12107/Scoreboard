@@ -1,0 +1,4 @@
+FP Adder: 2,2
+FP Mult: 2,30
+FP Div: 1,50
+Integer: 1,1
