@@ -1,0 +1,1 @@
+instruction		Fetch	Issue	Read	Execute		Write
